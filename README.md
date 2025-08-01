@@ -61,6 +61,7 @@ This dashboard enables Adidas to:
 - Track seasonal and monthly trends for inventory planning
 - Optimize product mix based on profit and units sold
 
+![Uploading image.png…]()
 <img width="1368" height="766" alt="image" src="https://github.com/user-attachments/assets/0015752e-7e85-4466-9899-0949daea26d8" />
 
 
